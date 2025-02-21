@@ -1,0 +1,210 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.card-meals {
+    background-image: url("https://images.pexels.com/photos/206359/pexels-photo-206359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    height: 100vH;
+}
+
+.bg-conatiner {
+    background-image: url('https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    height: 30vH;
+    background-size: cover;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 10px;
+    text-align: center;
+}
+
+.h-heading {
+    font-family: "BreeSerif";
+    color: #323f4b;
+    font-weight: bold;
+    color: white;
+}
+
+.p-para {
+    font-family: "Roboto";
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.b-button {
+    height: 32px;
+    width: 100px;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #ffffff;
+    color: #323f4b;
+    border-radius: 10px;
+    border-width: 0px;
+    font-family: "Roboto";
+}
+
+
+.background-card {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/tower-bg.png");
+    height: 250vH;
+    background-size: cover;
+}
+
+.background-heading {
+    color: white;
+    font-size: 35px;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    padding: 24px;
+}
+
+.taj-mahal-conationer {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 15px;
+}
+
+.tajmahal-heading {
+    color: black;
+    font-family: "Times New Roman";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.tajmahal-paragraph {
+    color: black;
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+.img-tajmahal {
+    height: 140px;
+    width: 120px;
+}
+
+.buttoning {
+    text-align: center;
+}
+
+.buttonstyle {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+
+.back-picture {
+    background-image: url("https://img.freepik.com/free-photo/beautiful-sea-side-landscape_23-2150724773.jpg?t=st=1720635912~exp=1720639512~hmac=63d17315f13898e2a55a5f0d918d7f2649e4ceed07c02ff37847c67bac92044f&w=360");
+    background-size: cover;
+    height: 150vH;
+}
+
+.back-heading {
+    color: white;
+    font-family: "Monoton";
+    font-size: 24px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 20px;
+}
+
+.view-card-name {
+    font-family: "Monoton";
+    color: black;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.view-card-name-para {
+    font-family: "Times New Roman";
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.card-text-container {
+    padding: 16px;
+}
+
+
+.detailed-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.detailed-view-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.detailed-view-card-text-container {
+    padding: 16px;
+}
+
+
+.detailed-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 150vH;
+    background-size: cover;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.detailed-view-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.detailed-view-card-text-container {
+    padding: 16px;
+}
